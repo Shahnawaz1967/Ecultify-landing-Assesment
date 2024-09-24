@@ -17,5 +17,12 @@ Deployed Link:[https://ecultifyshahnawaz.netlify.app/]
 
 Github Link:[https://github.com/Shahnawaz1967/Ecultify-landing-Assesment.git]
 
+# TO run this project 
+* copy:[https://github.com/Shahnawaz1967/Ecultify-landing-Assesment.git]
+  
+*  npm i
+  
+*  npm run dev
+
 
 
