@@ -11,7 +11,9 @@ React
 *lucide-react:lucide-react is a React library that provides a set of beautifully designed, customizable SVG icons. It's based on the open-source Lucide project, which offers a variety of icons similar to "Feather Icons" but with more features and flexibility.
 
 # 💫`Links`
-Deployed Link:[]
+
+Deployed Link:[https://ecultifyshahnawaz.netlify.app/]
+
 Github Link:[https://github.com/Shahnawaz1967/Ecultify-landing-Assesment.git]
 
 
