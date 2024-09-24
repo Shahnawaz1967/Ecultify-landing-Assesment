@@ -3,6 +3,7 @@ Ecultify is a modern and clean landing page designed to showcase the features, t
 
 # Stacks use
 * React: it is javascript library used to make user interface.
+* 
 *Tailwind: tailwind css is a utility CSS framwork which is used to style the web page .
 React
 
